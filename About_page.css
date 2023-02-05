@@ -1,0 +1,17 @@
+.about-page {
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.about-page h1, h2 {
+    margin-bottom: 20px;
+}
+
+.about-page ul {
+    list-style-type: square;
+    margin-left: 30px;
+}
+body{
+    body:url(Images/clothes-1846128_1920.jpg)
+}
